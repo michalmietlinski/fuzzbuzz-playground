@@ -7,6 +7,7 @@ My approach to this simple task - will try to bloat it beyond reason :)
 ## Done so far:
 1. Initial simple function
 2. Class - simple
+3. Hideous worst type version :)
 
 ## To be done (if i have time)
 1. Extend function into module
